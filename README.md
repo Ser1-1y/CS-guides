@@ -144,14 +144,23 @@
 # 6. Honorable mention
 
 Move It
+
 Network Multitool
+
 TM:PE.
+
 Real Time 2.6
+
 Realistic Population 2
+
 Find It! 2 - поисковик
+
 Ploppable RICO Revisited - MUST HAVE. Позволяет использовать скачанные кастомные здания и расставлять их вручную.
+
 Lifecycle Rebalance Revisited
+
 Improved Public Transport 2
+
 Network Anarchy
 
 !! Loading Screen Mod Revisited !!
@@ -162,20 +171,28 @@ First Person Camera
 
 
 Intersection Marking Tool - для рисования красивой разметки на дорогах/перекрёстках.
+
 Node Controller - для создания пешеходных переходов в любом месте, а также сглаживания перекрёстков, подъёмов и т.п.
 
 Building Spawn Points - для настройки точек спавна машин у зданий.
+
 Undo It!
+
 Zoning Adjuster - настройка клеток зонирования.
+
 District Styles Plus V2 - настройка стилей районов.
 
+
 Lumina - мощная настройка графики
+
 Theme Mixer 2.5
 
 Roads United: The Netherlands
 
+
 Surface Painter и
 Extra Landscaping Tools - покраска земли в разные материалы
+
 Repaint - покраска зданий и дорог.
 
 BOB - замена пропов и деревьев на дорогах и дорожках.
@@ -185,14 +202,20 @@ Precision Engineering
 CSL Map View - рендеры города в виде карты.
 
 Parkify
+
 Sharp Textures
 
 Picker - пипетка для всего
 
 Tree Control
+
 Prop Control
+
 Line Tool
+
 Game Anarchy
+
 Skyve - мод менеджер
+
 
 
